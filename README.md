@@ -85,15 +85,18 @@ A Netflix-inspired streaming platform built with modern web technologies
   - Progressive Web App capabilities
   - Advanced filtering and search features
 
-### 🔗 LinkClub - Social Link Management
-A modern platform for managing and sharing social media links and professional profiles
-- **Tech Stack:** React, TypeScript, Node.js, PostgreSQL
-- **Features:** Custom link pages, analytics tracking, QR code generation, theme customization
+### 🔗 LinkClub - Real-time Communication Platform
+A modern real-time chatting application with video and audio calling capabilities
+- **Tech Stack:** React, TypeScript, Node.js, Socket.io, Stream.io, PostgreSQL
+- **Features:** Real-time messaging, video calls, audio calls, group chats, file sharing
+- **Live Demo:** https://linkclub.netlify.app/
+
 - **Highlights:**
-  - Drag-and-drop link organization
-  - Real-time analytics dashboard
-  - Custom domain support
-  - Mobile-first responsive design
+  - Real-time chat using Socket.io
+  - HD video and audio calls powered by Stream.io
+  - Media sharing
+  - Cross-platform compatibility
+  - End-to-end message delivery
 
 ### ☕ Cafe Z - Coffee Shop Management System
 A comprehensive point-of-sale and inventory management system for coffee shops with mobile app
