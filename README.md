@@ -1,22 +1,25 @@
 # Hi there, I'm Phyo Min Thein! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+TypeScript+Enthusiast;Building+Amazing+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Vue.js+%26+Nuxt.js+Expert;React+%26+TypeScript+Enthusiast;Building+Amazing+Web+Experiences" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer who loves creating innovative web applications and solving complex problems through code. Currently working on **WeFlix**, a Netflix-inspired streaming platform built with modern web technologies.
+I'm a passionate full-stack developer who loves creating innovative web applications and solving complex problems through code. I specialize in building modern, scalable applications with exceptional user experiences across various domains including streaming platforms, business intelligence systems, and academic performance management.
 
-- 🔭 I'm currently working on **WeFlix** - A full-featured streaming platform
+- 🔭 I'm currently working on **SOM BI** - An academic performance management system
 - 🌱 I'm constantly learning and exploring new technologies
 - 💡 I enjoy building user-centric applications with great UX/UI
 - 🎯 Goal: Contributing to open-source projects and building impactful software
-
+a
 ## 🛠️ Tech Stack
 
 ### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,15 +28,24 @@ I'm a passionate full-stack developer who loves creating innovative web applicat
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ### Tools & Technologies
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+
 
 ## 📊 GitHub Stats
 
@@ -51,13 +63,71 @@ I'm a passionate full-stack developer who loves creating innovative web applicat
 
 ## 🌟 Featured Projects
 
-### 🎬 WeFlix
-A modern streaming platform built with React, TypeScript, and Supabase
+### 🎓 SOM BI - Academic Performance Management System
+A comprehensive business intelligence platform for academic performance tracking and KPI management
+- **Tech Stack:** Nuxt.js, Vue.js, TypeScript, MySQL, Firebase Auth, Google Cloud Run
+- **Features:** Real-time KPI tracking, multi-role dashboards (Admin/Dean/Lecturer), budget management, teaching performance analytics
+- **Live Demo:** https://app.som-bi.work.gd/
+- **Highlights:** 
+  - Multi-tenant architecture with role-based access control
+  - Real-time data visualization with Chart.js
+  - Mobile-responsive design with Tailwind CSS
+  - Cloud-native deployment on Google Cloud Platform
+
+### 🎬 WeFlix - Modern Streaming Platform
+A Netflix-inspired streaming platform built with modern web technologies
 - **Tech Stack:** React, TypeScript, Tailwind CSS, Supabase, Vite
-- **Features:** User authentication, movie/TV show browsing, responsive design
+- **Features:** User authentication, movie/TV show browsing, responsive design, search functionality
 - **Live Demo:** https://weflixmovie.netlify.app/
+- **Highlights:**
+  - Sleek, modern UI with smooth animations
+  - Real-time data from TMDB API
+  - Progressive Web App capabilities
+  - Advanced filtering and search features
+
+### 🔗 LinkClub - Social Link Management
+A modern platform for managing and sharing social media links and professional profiles
+- **Tech Stack:** React, TypeScript, Node.js, PostgreSQL
+- **Features:** Custom link pages, analytics tracking, QR code generation, theme customization
+- **Highlights:**
+  - Drag-and-drop link organization
+  - Real-time analytics dashboard
+  - Custom domain support
+  - Mobile-first responsive design
+
+### ☕ Cafe Z - Coffee Shop Management System
+A comprehensive point-of-sale and inventory management system for coffee shops with mobile app
+- **Tech Stack:** Flutter, Javascript, Firebase, Firestore
+- **Features:** Order management, inventory tracking, sales analytics, customer management, mobile app
+- **Google Play Store:** https://play.google.com/store/apps/details?id=com.cafez.app&hl=en
+- **Highlights:**
+  - Cross-platform mobile app built with Flutter
+  - Real-time order processing
+  - Inventory alerts and management
+
+### 💼 Personal Portfolio
+A showcase of my work, skills, and professional journey
+- **Tech Stack:** React, TypeScript, Framer Motion, Tailwind CSS
+- **Features:** Interactive animations, project showcases, contact forms, blog section
+- **Live Demo:** https://phyominthein-portfolio.netlify.app
+- **Highlights:**
+  - Smooth scroll animations with Framer Motion
+  - Dark/light theme toggle
+  - Responsive design across all devices
+  - SEO optimized
+
+### 🔍 Lost and Found System
+A digital platform for managing lost and found items in educational institutions
+- **Tech Stack:** Flutter, Firebase, Firestore, GoogleMapsAPI
+- **Features:** Item reporting, image uploads, search functionality, notification system
+- **Highlights:**
+  - Image recognition for item matching
+  - Real-time notifications
+  - Admin dashboard for management
+  - Mobile app integration
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kweephyo-pmt&repo=senior_project&theme=tokyonight&hide_border=true" alt="SOM BI Repository" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kweephyo-pmt&repo=WeFlix&theme=tokyonight&hide_border=true" alt="WeFlix Repository" />
 </div>
 
@@ -67,12 +137,22 @@ A modern streaming platform built with React, TypeScript, and Supabase
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kweephyo-pmt&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
+## 🏆 Achievements & Experience
+
+- 🎯 **Full-Stack Development:** 3+ years of experience building scalable web applications
+- 📱 **Mobile Development:** Cross-platform app development with Flutter
+- 🚀 **Cloud Deployment:** Expertise in Google Cloud Platform, Firebase, and Netlify
+- 📊 **Data Visualization:** Proficient in creating interactive dashboards and analytics
+- 🔐 **Authentication & Security:** Implemented secure authentication systems across multiple projects
+- 📱 **Responsive Design:** Mobile-first approach with modern UI/UX principles
+- 🛠️ **DevOps:** Experience with CI/CD pipelines and containerization
+
 ## 🤝 Connect with Me
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phyo-min-thein-605168361)
-[![Instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://instagram.com/kweephyoe_pmt)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kweephyoe_pmt)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://phyominthein-portfolio.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phyominthein.leo@gmail.com)
 
