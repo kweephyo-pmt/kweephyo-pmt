@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kweephyo-pmt&label=Profile%20views&color=0e75b6&style=flat" alt="kweephyo-pmt" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://phyominthein-portfolio.netlify.app/#projects](https://phyominthein-portfolio.netlify.app/#projects)
+- 👨‍💻 All of my projects are available at [https://phyominthein-portfolio.netlify.app/](https://phyominthein-portfolio.netlify.app/)
 
 - 📫 How to reach me **phyominthein.leo@gmail.com**
 
