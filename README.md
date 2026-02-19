@@ -1,4 +1,7 @@
 # Hi there, I'm Phyo Min Thein! 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kweephyo-pmt/kweephyo-pmt/main/Developer.gif" width="650"/>
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Vue.js+%26+Nuxt.js+Expert;React+%26+TypeScript+Enthusiast;Building+Amazing+Web+Experiences" alt="Typing SVG" />
