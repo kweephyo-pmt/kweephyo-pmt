@@ -14,7 +14,8 @@
 
 - 📫 How to reach me **phyominthein.leo@gmail.com**
 
-- <iframe src="https://github.com/sponsors/kweephyo-pmt/card" title="Sponsor kweephyo-pmt" height="225" width="600" style="border: 0;"></iframe>
+## 💖 Sponsor me
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github)](https://github.com/sponsors/kweephyo-pmt)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
